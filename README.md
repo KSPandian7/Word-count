@@ -37,9 +37,14 @@ def wordcount():
             cnt += 1
     print("The number of words in the given file is:",cnt)
 wordcount()
+
+
+
+
 ```
 
 ### OUTPUT:
+
 ![output](/op1.png)
 ![output](/op2.png)
 
