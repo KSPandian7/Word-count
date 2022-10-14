@@ -40,12 +40,8 @@ wordcount()
 ```
 
 ### OUTPUT:
-MY txt file:
-![myfile](/file.png)
-
-OUTPUT:
-
-![output](/op.png)
+![output](/op1.png)
+![output](/op2.png)
 
 
 
